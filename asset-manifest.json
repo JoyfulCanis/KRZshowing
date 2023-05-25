@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45670730.css",
+    "main.js": "/static/js/main.93af7dfe.js",
+    "static/media/krz-rbg.png": "/static/media/krz-rbg.925944ccaf0d73fecefe.png",
+    "static/media/Orbitron-Regular.ttf": "/static/media/Orbitron-Regular.533d008336bcefb4e6be.ttf",
+    "index.html": "/index.html",
+    "main.45670730.css.map": "/static/css/main.45670730.css.map",
+    "main.93af7dfe.js.map": "/static/js/main.93af7dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45670730.css",
+    "static/js/main.93af7dfe.js"
+  ]
+}
